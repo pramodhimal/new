@@ -1,6 +1,6 @@
 {
 	pramod = sowmya;
 
-	sowmya = 10;
+	sowmya = 20:
 }
 
